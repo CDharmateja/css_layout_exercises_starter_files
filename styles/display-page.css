@@ -1,0 +1,39 @@
+main {
+    padding: 30px;
+    font-size: 0;
+}
+
+.one {
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+
+.two {
+    height: 200px;
+    width: 50%;
+    background-color: blue;
+}
+
+.three {
+    height: 300px;
+    width: 33.33%;
+    background-color: grey;
+}
+
+.four {
+    height: 300px;
+    width: 33.33%;
+    background-color: black;
+}
+
+.five {
+    height: 300px;
+    width: 33.33%;
+    background-color: goldenrod;
+}
+
+inline_block {
+    display: inline-block;
+    font-size: 0;
+}
