@@ -1,39 +1,47 @@
 main {
-    padding: 30px;
+    padding: 60px;
     font-size: 0;
 }
 
-.one {
+.row1 {
+    display: inline-block;
+    font-size: 0;
     height: 200px;
-    width: 50%;
+    width: 400px;
+    border: 1px solid black;
+}
+
+.align {
+    /* text-align: center; */
+    text-align: center;
+}
+
+.row2 {
+    display: inline-block;
+    font-size: 0;
+    height: 300px;
+    width: 266.66px;
+    border: 1px solid black;
+}
+
+.one {
     background-color: green;
 }
 
 .two {
-    height: 200px;
-    width: 50%;
     background-color: blue;
 }
 
 .three {
-    height: 300px;
-    width: 33.33%;
     background-color: grey;
 }
 
 .four {
-    height: 300px;
-    width: 33.33%;
     background-color: black;
 }
 
 .five {
-    height: 300px;
-    width: 33.33%;
     background-color: goldenrod;
 }
 
-inline_block {
-    display: inline-block;
-    font-size: 0;
-}
+
